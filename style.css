@@ -60,6 +60,12 @@ p{
     border: 2.6px rgb(0, 11, 135) solid;
     margin-left: 0.5em;
 }
+#orders:hover{
+    background-color: rgb(52, 60, 154);
+}
+#start:hover{
+    background-color: rgb(212, 212, 212);
+}
 img{
     width: 110%;
 }
